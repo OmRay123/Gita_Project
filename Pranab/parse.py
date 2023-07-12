@@ -39,7 +39,7 @@ for chNum in chapters:
     for i in PranabArr:
         fileName = "P-CH0" + chNum + "-" + re.sub(r"[^0-9,]", "", i[0]) + ".md"
         print(fileName)
-        f = open("../Output/" + fileName, "a")
+        f = open("./Output/" + fileName, "a")
         f.write("#### Prose \n\n")
         i[0] = ",".join(re.findall(r"\d+", i[0]))
         if len(i[0].split(",")) > 1:
