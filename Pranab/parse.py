@@ -1,57 +1,56 @@
 import csv
 import re
 
-chapters = [
-    "1",
-    "2",
-    "3",
-    "4",
-    "5",
-    "6",
-    "7",
-    "8",
-    "9",
-    "10",
-    "11",
-    "12",
-    "13",
-    "14",
-    "15",
-    "16",
-    "17",
-    "18",
-]
 
-for chNum in chapters:
-    originalGita = open("../CSVs/Chapter" + chNum + ".csv")
-    pranabGita = open("./Pranab Gita Csvs/Chapter" + chNum + "PranabGita.csv")
+def csv_to_arr(file_path):
+    with open(file_path, "r") as f:
+        reader = csv.reader(f)
+        data = list(reader)
+    del data[0]  # remove header if it exists
+    return data
 
-    def csvToArr(file):
-        with file as f:
-            reader = csv.reader(f)
-            arr = list(reader)
-        del arr[0]
-        return arr
 
-    GitaArr = csvToArr(originalGita)
-    PranabArr = csvToArr(pranabGita)
+def write_to_file(path, content):
+    with open(path, "a") as f:
+        f.write(content)
 
-    for i in PranabArr:
-        fileName = "P-CH0" + chNum + "-" + re.sub(r"[^0-9,]", "", i[0]) + ".md"
-        print(fileName)
-        f = open("./Output/" + fileName, "a")
-        f.write("#### Prose \n\n")
-        i[0] = ",".join(re.findall(r"\d+", i[0]))
-        if len(i[0].split(",")) > 1:
-            verseNums = i[0].split(",")
-            for j in verseNums:
-                j = int(j)
-                f.write(GitaArr[j - 1][0] + "\n")
-                f.write(GitaArr[j - 1][1] + "\n\n")
-        else:
-            f.write(GitaArr[int(i[0]) - 1][0] + "\n")
-            f.write(GitaArr[int(i[0]) - 1][1] + "\n\n")
-        f.write(" #### Bengali Translation \n\n")
-        f.write(i[1])
-        f.write("\n\n #### Commentary \n\n")
-        f.write(i[2])
+
+def create_file(ch_num, pranab_arr, gita_arr):
+    for record in pranab_arr:
+        file_name = f"P-CH0{ch_num}-{re.sub(r'[^0-9,]', '', record[0])}.md"
+        print(file_name)
+        write_path = f"./Output/{file_name}"
+
+        verse_nums = re.findall(r"\d+", record[0])
+        verse_content = "\n".join(
+            [
+                f"{gita_arr[int(verse)-1][0]}\n{gita_arr[int(verse)-1][1]}\n"
+                for verse in verse_nums
+            ]
+        )
+
+        content = (
+            "### Prose \n --- \n"
+            + f"{verse_content}\n"
+            + "### Bengali Translation \n --- \n"
+            + f"{record[1]}\n\n"
+            + "### Commentary \n --- \n"
+            + f"{record[2]}"
+        )
+
+        write_to_file(write_path, content)
+
+
+def process_chapters(chapters):
+    for ch_num in chapters:
+        original_gita_path = f"../CSVs/Chapter{ch_num}.csv"
+        pranab_gita_path = f"./Pranab Gita Csvs/Chapter{ch_num}PranabGita.csv"
+
+        gita_arr = csv_to_arr(original_gita_path)
+        pranab_arr = csv_to_arr(pranab_gita_path)
+
+        create_file(ch_num, pranab_arr, gita_arr)
+
+
+chapters = [str(i) for i in range(1, 19)]
+process_chapters(chapters)

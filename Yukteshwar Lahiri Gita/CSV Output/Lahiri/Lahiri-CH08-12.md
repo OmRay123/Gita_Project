@@ -1,0 +1,14 @@
+### Prose 
+ --- 
+सर्वद्वाराणि संयम्य मनो हृदि निरुध्य च |
+मूर्ध्न्याधायात्मन: प्राणमास्थितो योगधारणाम् || 12||
+sarva-dvārāṇi sanyamya mano hṛidi nirudhya cha
+mūrdhnyādhāyātmanaḥ prāṇam āsthito yoga-dhāraṇām
+
+### Translation 
+ --- 
+sarvadvarani samyamya mano hridi niruddhya cha murdhnadhyatmanah pranamasthito yogadharanam
+
+### Commentary 
+ --- 
+[Commentary:]13) OM - the form of this body - then Kutastha - He is Brahman Itself!!!  With the utterance, surrendering to the Atom of Brahman - OM bhuh - Muladhar, meaning earth - OM bhuvah - Svadhisthan - water, meaning urine; OM mahah - Maharloka - Manipura (A) the region of the navel - that which rules within everyone in the form of Rudra - the secret place of this mind (accessible to yogis) - OM svah - from which all is born, meaning Anahata in the heart (B) - the abode of Mahadeva - takes birth by Himself - OM janah - the place from which all sounds arise - “a, aa, i, ee, ang, ah” - the sixteen letters [vowels] because of which - the sixteen-streamed Vishuddhakhya (C) - the abode of Shiva - the white manifestation of the form of Mahadeva - after that is Kutastha.(A) All speech/words arise because of vayu being in the energy of Manipura.  (B) That aforementioned fire becomes illuminated, settles in the heart, burns away all food and merges [dissolves] fire-energy into vayu.  (C) That vayu, going to the throat, merges into space and manifests as sixteen types of breath.  At the end of that sixteen-fold form - the Still subtle form - the revelation of Kutastha Itself - in the two-petaled Ajna Chakra, the revelation of Brahman Itself.Thereafter, one who, upon entering that Atom of Brahman, leaves the body while doing Omkar Kriya 3,456 times in every chakra in one breath - the Supreme Way that is attained - this is what is known as leaving life through yogic power.  And one who cannot do this - if he meditates upon Kutastha of those four chakras and leaves life while surrendered to the Atom of Brahman - doing this also brings attainment of the Supreme Way. (If correctly done, no questions remain.)*[*Translator’s note:  All parentheses - ( ) - and the text within them in the commentary to this sloka 8:13, are in the original.  Only the word within brackets - [ ] - are the translator’s for the purposes of clarification.  Within the commentary itself are footnotes provided by Yogiraj, which in the Bengali are delineated by letters that are literally “k”, “kh,” and “g” - the first three letters of the consonant section of alphabets in the Sanskritic family.  Because these particular letters were assigned as symbols for footnoted commentary, the corresponding letters that would normally be used for footnotes in English - “A”, “B”, and “C” have been used in this translation.]

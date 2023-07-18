@@ -1,0 +1,18 @@
+### Prose 
+ --- 
+योगिनामपि सर्वेषां मद्गतेनान्तरात्मना |
+श्रद्धावान्भजते यो मां स मे युक्ततमो मत: || 47||
+yoginām api sarveṣhāṁ mad-gatenāntar-ātmanā
+śhraddhāvān bhajate yo māṁ sa me yuktatamo mataḥ
+
+### Transliteration 
+ --- 
+yoginamapi sarvesham madgatenantaratmana shraddhavan bhajate yo mam sa me yuktatamo matah - 47-
+
+### Translation 
+ --- 
+Yogis who are devoted to other gods Taking the mind from there and establishing it in Me Absorbed in reverence, the one who always meditates on Me He is known as the greatest yogi in the three worlds - 47-
+
+### Commentary 
+ --- 
+Commentary: Those who surrender mind, intellect etc. and the inner senses in Atman, and practice residing in Consciousness-Self with reverence, they very quickly attain that Infinite, Bliss of Knowledge-filled Brahman-Substance.  This is what is experienced in the Most Supreme Kutasthachaitanya. - 47- SUMMARIZED DESCRIPTION OF CHAPTER 6 If the mind stays immersed in Kutasthachaitanya in the aforementioned manner, then even more is experienced, such that:  when the cessation of the fluctuations of consciousness is experienced via the practice of yogakriya, the very practice that yogis should do is to prevent the reemergence of that [the fluctuations] and rest in that state [of tranquility].  In this perspective, yoga and sannyas are not different.  Those who are not attracted to the sense-oriented things of sound, touch etc. or sense-oriented acts, who have renounced the desire for their fruits and who have fulfilled only what needs to be dutifully done, those who have renounced all desire and doubt of body, mind and even up to speech -   they are the ones who are yogis, and they are the ones who are sannyasis or renunciates.  Without this kind of renunciatioon there is no becoming a yogi or a sannyasi by just renouncing according to the methods of the Vedas or society [1 - 4].  In this world, one is one’s own friend and one is one’s own enemy.  When one can remain enjoined in Kutasthachaitanya, one can rescue oneself as one’s own friend from all sorrows of the world; this is what the jiva should do; the jiva should not instead break off from Consciousness and become enveloped by the sorrows of the world [5 - 6].   Kutasthachaitanya sadhakas, who are victorious over their senses, experience in this way the Substance beyond scriptural knowledge, become fully content, and residing completely and in profound Tranquility in union with the Supreme Substance, know gold, earth, stone etc. as undifferentiated Consciousness, and thereby are unperturbed by [the seeming differentiations of] friend, enemy, saint, wicked, cold, heat, pleasure, sorrow, honor, shame etc. [7 - 9].  With one-pointed focus of mind, alone in a solitary place, following the practices of not taking from anyone, chastity, continence, cleanliness etc., sitting on a seat of grass, skin and cloth, keeping body, neck and head still and steadfastly concentrating by techniques such as focusing at the root of the nose, and thereby withdrawing all senses and their associations, fastening consciousness in Kutasthachaitanya, and continuously remaining engaged in Its meditation, become one with that Supreme Nirvana-Form in the Abode of Tranquility, the Infinite Consciousness [10 -15].  This type of yogakriya is not within the capacity of those who overeat or fast, or those who oversleep or do not sleep at all.  If one can perform this while maintaining eating, recreation, sleeping, waking, work, effort etc. with regularity, then all sorrow is eradicated [16 - 17]. Thus ends the sixth chapter of the yogashastra upanishad Srimad Bhagavad Gita with analysis via various scriptures of this country and the West, along with spiritual commentary.

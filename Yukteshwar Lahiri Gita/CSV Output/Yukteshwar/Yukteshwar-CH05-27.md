@@ -1,0 +1,18 @@
+### Prose 
+ --- 
+स्पर्शान्कृत्वा बहिर्बाह्यांश्चक्षुश्चैवान्तरे भ्रुवो: |
+प्राणापानौ समौ कृत्वा नासाभ्यन्तरचारिणौ || 27||
+sparśhān kṛitvā bahir bāhyānśh chakṣhuśh chaivāntare bhruvoḥ
+prāṇāpānau samau kṛitvā nāsābhyantara-chāriṇau
+
+### Transliteration 
+ --- 
+sparshan kritva bahirbahyamshchakshushchaivantare bhruvouh pranapanou samou kritva nasabhyantaracharinou - 27-
+
+### Translation 
+ --- 
+No translation
+
+### Commentary 
+ --- 
+No commentary

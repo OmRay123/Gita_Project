@@ -1,0 +1,14 @@
+### Prose 
+ --- 
+पुरोधसां च मुख्यं मां विद्धि पार्थ बृहस्पतिम् |
+सेनानीनामहं स्कन्द: सरसामस्मि सागर: || 24||
+purodhasāṁ cha mukhyaṁ māṁ viddhi pārtha bṛihaspatim
+senānīnām ahaṁ skandaḥ sarasām asmi sāgaraḥ
+
+### Translation 
+ --- 
+purodhasancha mukhyam mam viddhi partha brihaspatim senaninamaham skandah sarasamasmi sagarah
+
+### Commentary 
+ --- 
+[Commentary:]25) The Eternal Kutastha - performing Kriya - the cool vayu moves within and outside the spine.
